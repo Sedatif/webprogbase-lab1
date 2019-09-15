@@ -4,6 +4,8 @@ body
 }
 ul 
 {
+    width: 1900px;
+    height: 80px;
     list-style: none;
     margin: 0;
     padding-left: 0;
@@ -19,8 +21,7 @@ a:hover
 }
 .menu ul
 {
-    font-size: 150%;
-    display: -webkit-flex; 
+    font-size: 150%; 
     display: flex;
     padding-left: 0;
     background: rgb(0, 0, 0);
@@ -45,8 +46,10 @@ a:hover
 }
 #blocking
 {
+    width: 150px;
+    height: 30px;
     color:cyan; 
-    padding-right: 35cm;
+    padding-right: 34cm;
 }
 .table td,th,caption
 {
